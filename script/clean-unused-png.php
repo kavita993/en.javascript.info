@@ -19,4 +19,5 @@ foreach($files as $file) {
 
     exit;
   }
+  hello
 }
